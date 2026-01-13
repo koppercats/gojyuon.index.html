@@ -1,1 +1,1 @@
-# gojyuon.index.html
+# gojyuon.github.io
